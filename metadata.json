@@ -1,0 +1,7 @@
+{
+  "name": "DirectPro WhatsApp Contact",
+  "description": "Applicazione professionale Glassmorphism per avviare chat WhatsApp istantanee con intelligenza artificiale, gestione note e backup dati.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
